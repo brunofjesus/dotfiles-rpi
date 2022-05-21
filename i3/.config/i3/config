@@ -218,3 +218,6 @@ bar {
 	    urgent_workspace   $red_l    $red_l     $fg
 	}
 }
+
+# Wallpaper
+exec --no-startup-id feh --bg-fill ~/.config/wallpaper/wallpaper.png
